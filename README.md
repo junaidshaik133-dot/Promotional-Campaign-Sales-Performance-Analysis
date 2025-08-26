@@ -1,4 +1,4 @@
-#   Promotional Campaign & Sales Performance Analysis (Retail Domain)
+#  📈  Promotional Campaign & Sales Performance Analysis (Retail Domain)
 
 An interactive **Power BI dashboard** designed to evaluate the effectiveness of AtliQ Mart’s promotional campaigns across multiple cities. The analysis focuses on **incremental revenue, sold units, store performance, and promotion type effectiveness**, helping business stakeholders assess ROI and optimize future marketing strategies.
 
