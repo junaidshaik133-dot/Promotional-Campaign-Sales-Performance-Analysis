@@ -71,7 +71,7 @@ To provide AtliQ Mart with a comprehensive **campaign performance analytics tool
 
 
 #  6. Screenshots / Demos
-📄 [View Dashboard Snapshot (PDF)](./Promotional%20Campaign%20&%20Sales%20Performance%20Analysis.pdf)
+📄 [View Dashboard Snapshot (PDF)]--(https://github.com/junaidshaik133-dot/Promotional-Campaign-Sales-Performance-Analysis/blob/main/Snap%20Shot.pdf)
 
 ---
 
